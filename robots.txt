@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Me Gusta</title>
+  <link rel="stylesheet" href="style/style.css" />
+  <link rel="stylesheet" href="style/animate.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+   href="https://fonts.googleapis.com/css2?family=Stick&display=swap"
+   rel="stylesheet"
+  />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ </head>
+ <body>
+  <main>
+   <section class="main">
+    <div class="container">
+     <div class="main-wrapper grid-wrapper grid-wrapper__two">
+      <div class="main-info">
+       <h1>Me Gusta</h1>
+       <p>
+        $MEGUSTA is a twist on the iconic Me Gusta Guy meme, bringing his
+        signature smirk to the TRON blockchain.
+       </p>
+       <div class="link-group">
+        <a href="https://twitter.com/megustatrx" target="_blank" class="link"><img src="img/x.webp" alt=""></a>
+        <a href="https://t.me/megustatrx" target="_blank" class="link">
+         <img src="img/tg.png" alt="">
+        </a>
+        <a href="" target="_blank" class="link">
+         <img src="img/sunswap.avif" alt="">
+        </a>
+        <a href="https://www.dextools.io/app/en/tron/pair-explorer/THFms1TbpuMQXeLKrUgGrjucJrVhy2GQeA" target="_blank" class="link">
+         <img src="img/dextools.svg" alt="">
+        </a>
+        <a href="https://tronscan.org/#/token20/TNrqSZNFdsiNzL3NnK3hMjN2jfkhyhX8xs" target="_blank" class="link">
+         <img src="img/tronscan.webp" alt="">
+        </a>
+        <a href="/cdn-cgi/l/email-protection#a2cbccc4cde2cfc7c5d7d1d6c3d6d0cdcc8cd4cbd2" target="_blank" class="link">
+         <img src="img/email.png" alt="">
+        </a>
+       </div>
+       <div class="button-group">
+        <a href="https://sunpad.io/tron/presale/419d9f20d744b6f6fd20cd379422f82b15004e1d2a" target="_blank" class="button">buy now</a>
+        <a href="https://www.dextools.io/app/en/tron/hot-pairs" target="_blank" class="button">see chart</a>
+       </div>
+      </div>
+      <div class="main-image">
+       <img src="img/main.gif" alt="">
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="about">
+    <div class="container">
+     <div class="about-wrapper grid-wrapper grid-wrapper__two">
+      
+      <div class="about-image">
+       <img src="img/about.gif" alt="">
+      </div>
+      <div class="about-info">
+       <h2>About</h2>
+       <p>
+        Me Gusta Token is a unique meme token on the TRON blockchain, embodying the essence of the iconic Me Gusta meme. The token's ticker is $MEGUSTA.</p>
+        <p>Me Gusta Guy is a drawn character capable of expressing pleasure from a wide range of things, from the forbidden and inappropriate to the utterly mundane. His smirk and the famous phrase "Me Gusta," which translates from Spanish as "I like it," have long become symbols of the strange, shocking, and even repulsive, yet strangely alluring.</p>
+        <p>$MEGUSTA Token is not just a meme in the digital space but a true challenge to tradition and the ordinary. This token embodies the spirit of freedom and irony that penetrates the very core of blockchain technology. Join the $MEGUSTA movement and experience how the bizarre and unexpected can transform into something delightful!</p>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="buy">
+    <div class="container">
+     <h2>How to buy</h2>
+     <div class="card-wrapper">
+      <div class="card">
+       <p class="title">1. Make a Wallet</p>
+       <p>Download TronLink or your preferred TRON wallet from the app store or Google Play Store for free. Desktop users can install the TronLink browser extension from tronlink.org.</p>
+      </div>
+      <div class="card">
+       <p class="title">2. Get Some TRX</p>
+       <p>Ensure you have TRX in your wallet to swap for $MEGUSTA. If you don’t have any TRX, you can buy it directly on TronLink, transfer from another wallet, or purchase on another exchange and send it to your wallet.</p>
+      </div>
+      <div class="card">
+       <p class="title">3. Go to a TRON DEX</p>
+       <p>Connect to a TRON-based decentralized exchange (DEX) like SunSwap. Go to Sun.io in your browser or access it through the built-in browser in your TronLink app. Connect your wallet. Paste the $MEGUSTA token address into the DEX, select $MEGUSTA, and confirm. When TronLink prompts you for a wallet signature, sign.
+       </p>
+      </div>
+      <div class="card">
+       <p class="title">4. Swap TRX for $MEGUSTA</p>
+       <p>Swap your TRX for $MEGUSTA. With ZERO taxes, there's no need to worry about setting a specific slippage, although slippage might be required during periods of high market volatility.</p>
+      </div>
+     </div>
+    </div>
+   </section>
+   
+   <section class="token">
+    <div class="container">
+       <h2>Tokenomics</h2>
+       <p class="title-primary">Token Supply:</p>
+       <p class="title-primary">1 000 000 000</p>
+
+       <div class="token-wrapper grid-wrapper grid-wrapper__two">
+        <div class="card card-primary">
+         <div class="card-primary__opacity"></div>
+         <p class="title">Name: ME GUSTA</p>
+         <p class="title">Ticker: $MEGUSTA</p>
+         <p class="title">Contract: <a href="https://tronscan.org/#/contract/TNrqSZNFdsiNzL3NnK3hMjN2jfkhyhX8xs" target="_blank">...hX8xs</a></p>
+         <p class="title">Supply: 1 000 000 000</p>
+         <p class="title">Tax: 0/0</p>
+        </div>
+        <div class="token-image">
+         <img src="img/token.gif" alt="">
+        </div></div>
+     </div>
+    </div>
+   </section>
+   <section class="map">
+    <div class="container">
+       <h2>Roadmap</h2>
+      
+       <div class="map-wrapper grid-wrapper grid-wrapper__two">
+        <div class="map-image">
+         <img src="img/map.gif" alt="">
+        </div>
+        <div class="card card-primary">
+         <div class="card-primary__opacity"></div>
+         <p class="title">Phase 1: $MEGUSTA</p>
+         <p class="title">Phase 2: Meme and HODL</p>
+         <p class="title">Phase 3: $MEGUSTA Domination</p>
+        </div>
+        
+       </div>
+       <div class="map-wrapper grid-wrapper grid-wrapper__three">
+        <div class="card card-primary">
+         <div class="card-primary__opacity"></div>
+         <p class="title-primary">phase 1</p>
+         <p>- Launch</p>
+         <p>- Listings on CoinGecko/CoinMarketCap</p>
+         <p>- 690+ Holders</p>
+         <p>- Build the $MEGUSTA Meme Army</p>
+        </div>
+        <div class="card card-primary">
+         <div class="card-primary__opacity"></div>
+         <p class="title-primary">phase 2</p>
+         <p>- Strategic Partnerships</p>
+         <p>- Viral Marketing (we'll be everywhere)</p>
+         <p>- Exclusive content and community events for holders</p>
+         <p>- 2500+ holders </p>
+         <p>- Listings on CEXs</p>
+        </div>
+        <div class="card card-primary">
+         <div class="card-primary__opacity"></div>
+         <p class="title-primary">phase 3</p>
+         <p>- Utility Partnerships </p>
+         <p>- Cross-Chain Bridging  </p>
+         <p>- Custom Me Gusta-themed Tesla by Elon</p>
+         <p>- T1 Exchange Listings</p>
+         <p>- 10,000+ holders  </p>
+         <p>- Flip USD</p>
+        </div>
+       </div>
+     </div>
+    </div>
+   </section>
+   
+   <section class="trade">
+    <div class="trade-bg">
+     <img src="img/trade.gif" alt="trade">
+     <div class="trade-overlay"></div>
+    </div>
+    <div class="container">
+
+       <div class="trade-wrapper grid-wrapper grid-wrapper__four">
+        <div class="trade-image">
+         <img src="img/trade_1.gif" alt="trade">
+        </div>
+        <div class="trade-links">
+         <p class="title">Trade</p>
+         <a href="https://www.dextools.io/app/en/tron/pair-explorer/THFms1TbpuMQXeLKrUgGrjucJrVhy2GQeA" target="_blank" class="trade-link">Dextools</a>
+         <a href="https://sun.io/?lang=en-US#/v3/swap" target="_blank" class="trade-link">SunSwap</a>
+         <a href="https://tronscan.org/#/contract/TNrqSZNFdsiNzL3NnK3hMjN2jfkhyhX8xs" target="_blank" class="trade-link">TRONSCAN</a>
+        </div>
+        <div class="trade-links">
+         <p class="title">Community</p>
+         <a href="https://twitter.com/megustatrx" target="_blank" class="trade-link">Twitter</a>
+         <a href="https://t.me/megustatrx" target="_blank" class="trade-link">Telegram</a>
+         <a href="/cdn-cgi/l/email-protection#6d0a181e190c19020608032d0a000c0401430e0200" target="_blank" class="trade-link">Email</a>
+        </div>
+        <div class="trade-image trade-image__rotate">
+         <img src="img/trade_2.gif" alt="trade">
+        </div>
+       </div>
+       <div class="trade-info">
+        <p>$MEGUSTA has no association with the original creators of the Me Gusta meme. This token is simply a tribute to a meme we all enjoy and recognize.</p>
+        <p>$MEGUSTA is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is entirely useless and intended purely for entertainment purposes</p></div>
+       
+     </div>
+   </section>
+  </main>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/wow.min.js"></script>
+  <script src="js/main.js"></script>
+ </body>
+</html>
